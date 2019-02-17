@@ -6,8 +6,8 @@
                     alt="Avatar of Jonathan Reinink">
                 <div class="text-sm w-full h-10">
                     <div class="field-group h-full ">
-                        <input class="w-full h-full border rounded px-3" type="text"  placeholder="Write Something Here">
-
+                        <!-- <input class="w-full h-full border rounded px-3" type="text"  placeholder="Write Something Here"> -->
+                        <input class="bg-white appearance-none border-2 border-grey-lighter rounded w-full py-2 px-4 text-grey-darker leading-tight focus:outline-none focus:bg-white focus:border-purple" id="inline-full-name" type="text" placeholder="Write Or Upload Something Here">
                     </div>
                 </div>
             </div>
