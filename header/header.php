@@ -17,7 +17,8 @@
     <link rel="stylesheet" href="aui.dropdown.css"> -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/@atlassian/aui@8.1.0/dist/aui/aui-prototyping.css" />
-
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>

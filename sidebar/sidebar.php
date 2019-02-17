@@ -1,6 +1,6 @@
        <!-- AUI Sidebar -->
        <div class="aui-sidebar">
-            <div class="aui-sidebar-wrapper">
+            <div class="aui-sidebar-wrapper bg-white">
                 <div class="aui-sidebar-body">
 
                     <!-- AUI Page Header -->
