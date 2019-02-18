@@ -1,6 +1,6 @@
-<?php include_once "header/header.php" ?>
+<?php include_once "layouts/header/header.php" ?>
 <section id="content" role="main">
-    <?php include_once "sidebar/sidebar.php" ?>
+    <?php include_once "layouts/sidebar/sidebar.php" ?>
     <div class="aui-page-panel bg-inherit border-0">
         <div class="aui-page-panel-inner">
             <section class="aui-page-panel-content">
@@ -9,7 +9,7 @@
                     <div class="col-md-12">
                         <div class="row">
                             <div class="col-md-7">
-                                <?php include_once "center/center.php" ?>
+                                <?php include_once "layouts/center/center.php" ?>
                             </div>
                             <div class="col-md-5">
                                 hello
@@ -23,4 +23,4 @@
     </div>
 
 </section>
-<?php include_once "footer/footer.php" ?>
+<?php include_once "layouts/footer/footer.php" ?>
