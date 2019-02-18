@@ -12,7 +12,7 @@
                                 <?php include_once "layouts/center/center.php" ?>
                             </div>
                             <div class="col-md-5">
-                                hello
+
                             </div>
                         </div>
 
